@@ -5,3 +5,12 @@ body {
 form {
     text-align: center;
 }
+
+h1 {
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 100%;
+}
