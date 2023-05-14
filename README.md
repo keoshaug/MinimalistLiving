@@ -1,0 +1,2 @@
+# MinimalistLiving
+Minimalism Philosophy
