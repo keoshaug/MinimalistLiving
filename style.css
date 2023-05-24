@@ -15,6 +15,10 @@ img {
     width: 100%;
 }
 
+h1 {
+    font-family: sans-serif
+}
+
 h2 {
     text-align: center;
 }
